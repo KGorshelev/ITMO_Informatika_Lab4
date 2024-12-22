@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schedule>
+    <monday>
+        <lesson>
+            <time>11:40</time>
+            <subject>Информатика</subject>
+            <teacher>Белокон Юлия Алексеевна</teacher>
+            <address> 2308, ул. Саблинская, 114 </address>
+            <type>Практика</type>
+        </lesson>
+        <lesson>
+            <time>10:00</time>
+            <subject>Информатика</subject>
+            <teacher>Белокон Юлия Алексеевна</teacher>
+            <address>2308, ул. Саблинская, 114</address>
+            <type>Практика</type>
+        </lesson>
+        <lesson>
+            <time>13:30</time>
+            <subject>Линейная алгебра</subject>
+            <teacher>Карпов Дмитрий Валерьевич</teacher>
+            <address>1405, ул. Саблинская, 114</address>
+            <type>Лекция</type>
+        </lesson>
+        <lesson>
+            <time>15:20</time>
+            <subject>Линейная Алгебра</subject>
+            <teacher>Карпов Дмитрий Валерьевич</teacher>
+            <address>1405 ул. Саблинская, 114</address>
+            <type>Практика</type>
+        </lesson>
+    </monday>
+    <wednesday>
+        <lesson>
+            <time>8:20</time>
+            <subject>Основы профессиональной деятельности</subject>
+            <teacher>Клименков Сергей Викторович</teacher>
+            <address>Актовый зал (1216/0, усл) ул. Ломоносова, д.9, лит. М</address>
+            <type>Лекция</type>
+        </lesson>
+        <lesson>
+            <time>10:00</time>
+            <subject>Информатика</subject>
+            <teacher>Гаврилов Антон Валерьевич</teacher>
+            <address>Актовый зал (1216/0, усл) ул. Ломоносова, д.9, лит. М</address>
+            <type>Лекция</type>
+        </lesson>
+        <lesson>
+            <time>13:30</time>
+            <subject>Программирование</subject>
+            <teacher>Бобрусь Александр Владимирович</teacher>
+            <address>1324, ул. Саблинская, 114</address>
+            <type>Практика</type>
+        </lesson>
+        <lesson>
+            <time>13:30</time>
+            <subject>Программирование</subject>
+            <teacher>Бобрусь Александр Владимирович</teacher>
+            <address>1324, ул. Саблинская, 114</address>
+            <type>Практика</type>
+        </lesson>
+        <lesson>
+            <weakday>Среда</weakday>
+            <time>16:00</time>
+            <subject>Бальные танцы</subject>
+            <teacher>Шапиро Михаил Юрьевич</teacher>
+            <address>Дом молодежи, Большой зал</address>
+            <type>Спорт</type>
+        </lesson>
+    </wednesday>
+</schedule>
